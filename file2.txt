@@ -1,2 +1,4 @@
 Ver 1.0
 
+30881a413934d2ea11793188ce0abb7d33d68503 Added 2-nd file V.1.2
+00face96f5c850d7f1376f6433ecce69d5b8ec72 Init V.1.0
